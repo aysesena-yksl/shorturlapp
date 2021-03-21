@@ -1,3 +1,9 @@
+
+## SHORT URL UYGULAMA ÖDEVİ:
+##https://github.com/aysesena-yksl/Php_symfony-shorturl
+
+
+
 # Symfony Url Kısaltma Uygulaması Ödevi
 
 ## Gereksinimler
